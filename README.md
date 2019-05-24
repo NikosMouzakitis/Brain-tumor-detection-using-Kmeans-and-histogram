@@ -7,3 +7,5 @@ Project for Biomedical Signals and applications based in the paper
 Images after applying Color Space Translation into L(luminocity) *a and *b.
 ![img](https://github.com/NikosMouzakitis/Brain-tumor-detection-using-Kmeans-and-histogram/blob/master/clusterresults.png)
 Cluster results after k-means with 10 clusters.
+![img](https://github.com/NikosMouzakitis/Brain-tumor-detection-using-Kmeans-and-histogram/blob/master/final.png)
+Final segmentation results.
